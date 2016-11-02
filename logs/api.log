@@ -1,0 +1,2 @@
+::ffff:127.0.0.1 - - [02/Nov/2016:17:19:48 +0000] "GET /api/posts?testParam=test HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
+::ffff:127.0.0.1 - - [02/Nov/2016:17:19:57 +0000] "GET /api/posts?testParam=test HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
